@@ -1,0 +1,4 @@
+workers: 8
+debug: true
+log_level: warning
+api_key: key-z7hu4g9s5q
